@@ -4,10 +4,6 @@
   
 ## Github Stats  
 
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koarz&hide_border=true&theme=catppuccin_latte&layout=compact&hide=rust,go,makefile,assembly,dockerfile" align="right" style="width: 75%" /></td></tr></table>
-
 [![allenli178's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=koarz&theme=Default&days=20&grid=true&height=350)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **koarz/koarz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
