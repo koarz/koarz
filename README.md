@@ -4,10 +4,6 @@
   
 ## Github Stats  
 
-<table><tr><td valign="top" width="50%">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koarz&show_icons=true&theme=catppuccin_latte)
-
 </td><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koarz&hide_border=true&theme=catppuccin_latte&layout=compact&hide=rust,go,makefile,assembly,dockerfile" align="right" style="width: 75%" /></td></tr></table>
